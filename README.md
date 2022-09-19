@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suman Kumar Khan</h1>
+<h1 align="center">Hi <img src=https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif />, I'm Suman Kumar Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman-24&label=Profile%20views&color=0e75b6&style=flat" alt="suman-24" /> </p>

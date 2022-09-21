@@ -20,7 +20,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/19KpfKjphbpUxuXF44ul__PTkXaMzLwZW/view?usp=sharing](https://drive.google.com/file/d/19KpfKjphbpUxuXF44ul__PTkXaMzLwZW/view?usp=sharing)
 
 <h3 align="left">Connect with me <img height="40" w="20" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" /> </h3>
-<hr/>
+<hr width="250 />
 <p align="left">
 <a href="https://linkedin.com/in/suman-kumar-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman-kumar-khan" height="30" width="40" /></a>
 </p>

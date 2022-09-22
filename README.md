@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman-24&label=Profile%20views&color=0e75b6&style=flat" alt="suman-24" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img margin-left="30" src="https://github-profile-trophy.vercel.app/?username=suman-24&theme=onedark" alt="suman-24" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img margin-left="30" src="https://github-profile-trophy.vercel.app/?username=suman-24" alt="suman-24" /></a> </p>
 - 🔭 I've done collaborative work on [Royal-Enfield](https://royal-enfield-clone.netlify.app)
 
 - 🌱 I’m currently learning **MERN Stack at Masai School**

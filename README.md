@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img width="40" height="40" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Suman Kumar Khan</h1>
-<h3 align="center">My fascination with computers and the Web happened in the year 2009 when I got introduced to HTML. Since then, my inner passion drove me toward the journey of becoming a Software Developer and it drove me harder after the instance that happened in 2009 itself which I will never forget. <br/> My Tagline: <p>"My Success may not be Immediately but Definitely".</p> <br/>
+<h3 align="center">My fascination with computers and the Web happened in the year 2009 when I got introduced to HTML. Since then, my inner passion drove me toward the journey of becoming a Software Developer and it drove me harder after the instance that happened in 2009 itself which I will never forget. <br/> My Tagline: <p>"My Success may not be Immediately but Definitely".:smile:</p> <br/>
   To pursue strong skills for becoming a Full Stack Web Developer I joined Masai School in the year 2021 which has a rigorous 30-week Full Stack Web Development Programme. I belong to Jamshedpur known as Steel City and Pittsburgh of India. Also, an Electrical Engineer and have a keen interest in learning new things, especially in software, programming, digital, hacking, etc. Self-Motivator and always eager to learn new things coming ahead of a journey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman-24&label=Profile%20views&color=0e75b6&style=flat" alt="suman-24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suman-24" alt="suman-24" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=suman-24)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 I've done collaborative work on [Royal-Enfield](https://royal-enfield-clone.netlify.app)
 
 - 🌱 I’m currently learning **MERN Stack at Masai School**

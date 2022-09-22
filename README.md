@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suman Kumar Khan</h1>
+<h1 align="center">Hi <img width="40" height="40" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Suman Kumar Khan</h1>
 <h3 align="center">My fascination with computers and the Web happened in the year 2009 when I got introduced to HTML. Since then, my inner passion drove me toward the journey of becoming a Software Developer and it drove me harder after the instance that happened in 2009 itself which I will never forget. <br/> My Tagline: <p>"My Success may not be Immediately but Definitely".</p> <br/>
   To pursue strong skills for becoming a Full Stack Web Developer I joined Masai School in the year 2021 which has a rigorous 30-week Full Stack Web Development Programme. I belong to Jamshedpur known as Steel City and Pittsburgh of India. Also, an Electrical Engineer and have a keen interest in learning new things, especially in software, programming, digital, hacking, etc. Self-Motivator and always eager to learn new things coming ahead of a journey.</h3>
 

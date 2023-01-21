@@ -8,7 +8,7 @@
 
 - 🔭 I've done collaborative work on [Royal-Enfield Clone](royal-enfield-clone.netlify.app)
 
-- 🌱 I’m currently learning **MERN Stack at Masai School**
+- 🌱 I’m a **MERN Stack Developer**
 
 - 👯 I've done collaborative work on [Tata-Cliq](clone-tatacliq.netlify.app)
 

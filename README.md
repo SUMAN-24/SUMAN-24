@@ -15,13 +15,13 @@
 
 - 🤝Individual Project [lucid-sand-4612](https://mentimeter-clone.netlify.app)
 
-- 👨‍💻 All of my projects are available at [https://SUMAN-24.github.io](https://SUMAN-24.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio](https://SUMAN-24.github.io)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React.js, Redux, Typescript, Node.js, MongoDB, Express.js**
 
-- 📫 How to reach me **khansuman240694@gmail.com**
+- 📫Reach me via mail **khansuman240694@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19KpfKjphbpUxuXF44ul__PTkXaMzLwZW/view?usp=sharing](https://drive.google.com/file/d/19KpfKjphbpUxuXF44ul__PTkXaMzLwZW/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19KpfKjphbpUxuXF44ul__PTkXaMzLwZW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

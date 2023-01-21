@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img margin-left="30" src="https://github-profile-trophy.vercel.app/?username=suman-24" alt="suman-24" /></a> </p>
 
-- 🔭 I've done collaborative work on [Royal-Enfield Clone](royal-enfield-clone.netlify.app)
-
 - 🌱 I’m a **MERN Stack Developer**
+
+- 🔭 I've done collaborative work on [Royal-Enfield Clone](royal-enfield-clone.netlify.app)
 
 - 👯 I've done collaborative work on [Tata-Cliq](clone-tatacliq.netlify.app)
 

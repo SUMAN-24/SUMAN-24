@@ -20,7 +20,7 @@
 
 - 📫Reach me via mail **khansuman240694@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19KpfKjphbpUxuXF44ul__PTkXaMzLwZW/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JFV81Nf6E4HlfMhM_fvBa7I8qJBZ0xK5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

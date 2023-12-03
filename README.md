@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img width="40" height="40" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Suman Kumar Khan</h1>
-<h3 align="center">My fascination with computers and the Web happened in the year 2009 when I got introduced to HTML. Since then, my inner passion drove me toward the journey of becoming a Software Developer and it drove me harder after the instance that happened in 2009 which I will never forget. <br /> Currently working as a Software Engineer at ThynkWeb. <br/> My Tagline: <p><b><i>"My Success may not be Immediately but Definitely".:smile:</i></b></p> <br/></h3>
+<h3 align="center">My fascination with computers and the Web happened in the year 2009 when I got introduced to HTML. Since then, my inner passion drove me toward the journey of becoming a Software Developer and it drove me harder after the instance that happened in 2009 which I will never forget. <br /> Currently working as a Software Engineer at ThynkWeb. <br/> <br /> My Tagline: <p><b><i>"My Success may not be Immediately but Definitely".:smile:</i></b></p> <br/></h3>
   <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman-24&label=Profile%20views&color=0e75b6&style=flat" alt="suman-24" /> </p>

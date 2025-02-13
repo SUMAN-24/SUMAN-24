@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman-24&label=Profile%20views&color=0e75b6&style=flat" alt="suman-24" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img margin-left="30" src="https://github-profile-trophy.vercel.app/?username=suman-24" alt="suman-24" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img margin-left="30" src="https://github-profile-trophy.vercel.app/?username=suman-24" alt="suman-24-github-profile-trophy" /></a> </p>
 
 ## 👋 About Me
 
@@ -123,12 +123,17 @@
    <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" alt="khansuman240694@gmail.com" height="30" width="40" /></a>
 </p>
 
+
+## Top Languages and GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suman-24&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="suman-24-Top-Languages" /></p>
+
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suman-24&show_icons=true&locale=en&layout=compact" alt="suman-24" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=suman-24&show_icons=true&theme=radical&cache_seconds=1800" alt="suman-24-GitHub-Stats" /></p>
 
-<br/>
+## GitHub Contributions
+<p><img align="center" src="https://ghchart.rshah.org/SUMAN-24" alt="suman-24-GitHub-Contributions" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=suman-24&show_icons=true&locale=en" alt="suman-24" /></p>
-
-<p><img align="center" src="https://streak-stats.demolab.com/?user=suman-24&theme=radical" alt="suman-24" /></p>
+## GitHub Streak
+<p><img align="center" src="https://streak-stats.demolab.com/?user=suman-24&theme=radical&cache_seconds=1800" alt="suman-24-GitHub-Streaks" /></p>

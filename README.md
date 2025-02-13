@@ -24,7 +24,7 @@
 [View My Resume](https://drive.google.com/file/d/11MHMZYR-gEQJyqQPOdEvQt9bmAqsCuWd/view?usp=sharing)
 
 ## 👨‍💻 Portfolio
-[Portfolio](https://SUMAN-24.github.io)
+[View My Portfolio](https://SUMAN-24.github.io)
 
 ## 🛠️ Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 

@@ -97,7 +97,7 @@
 
 ### Additional Contribution:
 
-  - Took on the responsibility of facilitating technical interviews for React.js developer positions, contributing to the hiring process and team growth, while demonstrating strong leadership and technical expertise.
+  - Took on the responsibility of facilitating **technical interviews** for React.js developer positions, **contributing to the hiring process and team growth**, while **demonstrating strong leadership and technical expertise**.
 
 ## 📄 Resume
 [View My Resume](https://drive.google.com/file/d/11MHMZYR-gEQJyqQPOdEvQt9bmAqsCuWd/view?usp=sharing)

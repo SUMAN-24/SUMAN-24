@@ -123,8 +123,9 @@
    <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" alt="khansuman240694@gmail.com" height="30" width="40" /></a>
 </p>
 
+<br />
 
-## Top Languages and GitHub Stats
+## 📊 Top Languages and GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suman-24&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="suman-24-Top-Languages" /></p>
 
@@ -132,8 +133,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=suman-24&show_icons=true&theme=radical&cache_seconds=1800" alt="suman-24-GitHub-Stats" /></p>
 
-## GitHub Contributions
+## 📈 GitHub Contributions
 <p><img align="center" src="https://ghchart.rshah.org/SUMAN-24" alt="suman-24-GitHub-Contributions" /></p>
 
-## GitHub Streak
+## 🔥 GitHub Streak
 <p><img align="center" src="https://streak-stats.demolab.com/?user=suman-24&theme=radical&cache_seconds=1800" alt="suman-24-GitHub-Streaks" /></p>

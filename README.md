@@ -117,14 +117,6 @@
 ### 🔧 Others: 
 - **Custom Client Components**
 
-## 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/suman-kumar-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman-kumar-khan" height="30" width="40" /></a>
-   <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" alt="khansuman240694@gmail.com" height="30" width="40" /></a>
-</p>
-
-<br />
-
 ## 📊 Top Languages and GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suman-24&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="suman-24-Top-Languages" /></p>
@@ -138,3 +130,11 @@
 
 ## 🔥 GitHub Streak
 <p><img align="center" src="https://streak-stats.demolab.com/?user=suman-24&theme=radical&cache_seconds=1800" alt="suman-24-GitHub-Streaks" /></p>
+
+<br />
+
+## 🌐 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/suman-kumar-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman-kumar-khan" height="30" width="40" /></a>
+   <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" alt="khansuman240694@gmail.com" height="30" width="40" /></a>
+</p>

@@ -67,13 +67,12 @@
 
   **Tech Stack**: React, TypeScript, Redux-Toolkit, Flowbite, Chart.js, Axios, API integration, C#, .NET, MySQL
 
-### 3. AR/VR Platform for Product Manufacturers
+### 3. AR/VR Platform
 
   **Role**: **Frontend Development & Product Visualization**
 
-  - Developed the **Catalog Screen**, enabling **product publishing/unpublishing**, **product detail updates**, and **2D-to-3D catalog conversions** for digitalization.
-  - Built the **Product Details Screen** for AR and 3D product visualization.
-  - Implemented features like **product editing**, **share count**, **product attributes**, and **descriptions**, improving the digital product experience.
+  - Built the **Catalog** and **Product Details** screens, enabling **product publishing**, **2D-to-3D digitalization**, and **immersive AR/3D product visualization**.
+  - Improved digital product management by **integrating essential editing and metadata functionalities** like **product editing**, **share count**, **product attributes**, and **descriptions**.
 
   **Tech Stack**: React (Class Components), Vectary, API Integration, Bootstrap, Figma
 
@@ -81,8 +80,7 @@
 
   **Role**: **UI/UX Enhancements & System Optimization**
 
-  - Contributed to the **My Intuitive** and **Da Vinci screens**, optimizing system usability and efficiency for better healthcare workflows.
-  - Implemented **UI/UX improvements** for a more user-friendly experience.
+  - Contributed to **UI/UX improvements** on the **My Intuitive** and **Da Vinci** screens, optimizing system usability and efficiency for better healthcare workflows.
 
   **Tech Stack**: React, Bootstrap, Custom Client Components
 
@@ -91,7 +89,6 @@
   **Role**: **Intern, Frontend Development (mostly)**
   
   - Developed a **real-time vehicle performance dashboard**, displaying critical analytics such as **battery metrics and fleet reports**, improving tracking and monitoring capabilities for fleet administrators.
-  - Contributed to real-time vehicle tracking features, enhancing the system's ability to monitor and analyze fleet performance effectively.
 
   **Tech Stack**: Angular, Bootstrap, SCSS, C#, .NET, MySQL 
 

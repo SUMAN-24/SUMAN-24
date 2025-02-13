@@ -13,7 +13,7 @@
 
   Passionate about solving complex issues, I thrive in fast-paced environments, consistently delivering high-quality software solutions while meeting tight deadlines.
 
-- I have a strong passion for learning new technologies and am currently pursuing a Minor in AI from IIT Ropar, focusing on foundational and advanced AI concepts. Key learnings include:
+- I have a strong passion for learning new technologies and am currently pursuing a **Minor in AI** from **IIT Ropar**, focusing on foundational and advanced AI concepts. Key learnings include:
 
   - **Python Programming**, **Pandas**, **Data Visualization**
   - **Regression Models**, **PageRank Algorithm**

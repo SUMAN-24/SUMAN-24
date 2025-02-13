@@ -31,6 +31,74 @@
   ### Associate Software Engineer | ThynkWeb
   Worked on a diverse range of projects, contributing to frontend and full-stack development while enhancing user experiences and system performance.
 
+## 🚀 Projects
+
+### 1. App Studio (Enterprise DIY Platform)
+
+  **Role**: **App Studio Modernization & API Builder Development**
+
+  - Debugged and enhanced features in **App Studio**, built with **Backbone.js**, and quickly adapted to unfamiliar frameworks.
+  - Redesigned and migrated the **API Builder** from **Backbone.js to a React.js Micro-Frontend (MFE)** using **Web Components**.
+  - Developed a **React.js UI** as per **Figma** specifications, ensuring seamless project integration.
+  - Resolved **90% of reported bugs** in API Builder during migration, improving stability and performance.
+  - Implemented key features like **stage duplication**, **action buttons**, **default rules**, and **automation enhancements**.
+  - Optimized performance by refining **metadata handling**, **stage-setting logic**, and **adding a refresh button**.
+  - Improved UX by implementing **copy-paste functionality** for UI elements.
+  - Documented App Studio & API Builder on **Confluence**, aiding team knowledge sharing.
+
+  **Tech Stack**: Backbone.js, React.js, Marionette.js, Underscore.js, jQuery, Web Components (MFE), Webpack, Ant Design, Sass, Figma
+
+### 2. HRM Software (Human Resource Management System)
+
+  **Role**: **Frontend & API Development for Employee Management**
+
+  - Built **reusable React components & custom hooks**, enhancing scalability and reducing code duplication.
+  - Developed **RESTful APIs** for seamless **import/export of employee data**, batch processing, and synchronization.
+  - Automated the **email and notification systems** for leave approvals and system alerts, integrating frontend triggers with backend services to streamline communication and provide real-time updates.
+  - Implemented a **full-stack feature** for users to view all applicable **leave policies**, including frontend UI for policy display and backend logic for fetching role-specific data, improving **HR transparency**.
+  - Implemented core HRM features like **user management**, **leave management**, **payroll processing**, and **employee profile updates** using TypeScript & Redux-Toolkit.
+  - Migrated **JavaScript components to TypeScript (TSX)**, improving type safety and reducing runtime errors.
+  - **Revamped the UI** by migrating to the latest design standards, improving user experience and accessibility.
+  - Creatively designed and built a **reusable Delete Modal from scratch**, integrating an intuitive warning message and dual-step confirmation handling to enhance user safety and prevent accidental deletions.
+  - Developed an innovative, reusable **Filter Component**, dynamically adapting to various datasets and improving usability.
+  - Documented HRM Software on **GitHub Wiki**, outlining best practices in React, coding standards, and architectural decisions for effective knowledge sharing and team collaboration.
+  - **Redefined** the **README.md**, providing clear setup instructions, project structure, and development guidelines to improve onboarding and team collaboration.
+  - **Reviewed & approved PRs**, ensuring high code quality and adherence to best practices.
+
+  **Tech Stack**: React, TypeScript, Redux-Toolkit, Flowbite, Chart.js, Axios, API integration, C#, .NET, MySQL
+
+### 3. Trezi Showcase (AR/VR Collaborative Platform for Product Manufacturers)
+
+  **Role**: **Frontend Development & Product Visualization**
+
+  - Developed the **Catalog Screen**, enabling product publishing/unpublishing, product detail updates, and 2D-to-3D catalog conversions for digitalization.
+  - Built the **Product Details Screen** for AR and 3D product visualization.
+  - Implemented features like **product editing**, **share count**, **product attributes**, and **descriptions**, improving the digital product experience.
+
+  **Tech Stack**: React (Class Components), Vectary, API Integration, Bootstrap, Figma
+
+### 4. Intuitive Surgical (Healthcare Software Enhancements)
+
+  **Role**: **UI/UX Enhancements & System Optimization**
+
+  - Contributed to the **My Intuitive** and **Da Vinci screens**, improving system functionality, usability, and efficiency.
+  - Implemented **UI/UX improvements** for a more user-friendly experience.
+
+  **Tech Stack**: React, Bootstrap, Custom Client Components
+
+### 5. Flexi Twin (Real-Time Vehicle Tracking Platform)
+
+  **Role**: **Intern, Frontend Development (mostly)**
+
+  - Developed a **responsive screen for vehicle performance tracking**, displaying charts and reports, focused on **battery metrics** for fleet admins.
+  - Contributed to real-time vehicle tracking features, enhancing the system's ability to monitor and analyze fleet performance effectively.
+
+  **Tech Stack**: Angular, Bootstrap, SCSS, C#, .NET, MySQL 
+
+### Additional Contribution:
+
+  - Took on the responsibility of facilitating technical interviews for React.js developer positions, contributing to the hiring process and team growth, while demonstrating strong leadership and technical expertise.
+
 ## 📄 Resume
 [View My Resume](https://drive.google.com/file/d/11MHMZYR-gEQJyqQPOdEvQt9bmAqsCuWd/view?usp=sharing)
 

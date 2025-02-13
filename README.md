@@ -27,6 +27,10 @@
 
 - 📫Reach me at **khansuman240694@gmail.com**
 
+## 💼 Professional Experience
+  ### Associate Software Engineer | ThynkWeb
+  Worked on a diverse range of projects, contributing to frontend and full-stack development while enhancing user experiences and system performance.
+
 ## 📄 Resume
 [View My Resume](https://drive.google.com/file/d/11MHMZYR-gEQJyqQPOdEvQt9bmAqsCuWd/view?usp=sharing)
 

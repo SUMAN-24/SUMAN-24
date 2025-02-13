@@ -6,15 +6,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img margin-left="30" src="https://github-profile-trophy.vercel.app/?username=suman-24" alt="suman-24" /></a> </p>
 
-## 👨‍💻 About Me
+## 👋 About Me
 
 - 🌱 I’m a **Software Engineer** | **Formerly at ThynkWeb** | **💻 Full-Stack Developer** | **MERN Stack Developer**
+- Results-driven Full Stack Web Developer with 2 years of experience specializing in React.js, Backbone.js, and modern web technologies. I excel at building scalable applications, migrating legacy systems, and implementing pixel-perfect designs.
 
-- 🔭 I've done collaborative work on [Royal-Enfield Clone](royal-enfield-clone.netlify.app)
+  Passionate about solving complex issues, I thrive in fast-paced environments, consistently delivering high-quality software solutions while meeting tight deadlines.
 
-- 👯 I've done collaborative work on [Tata-Cliq](clone-tatacliq.netlify.app)
+- I have a strong passion for learning new technologies and am currently pursuing a Minor in AI from IIT Ropar, focusing on foundational and advanced AI concepts. Key learnings include:
 
-- 🤝Individual Project [Mentimeter Clone](https://mentimeter-clone.netlify.app)
+  - Python Programming, Pandas, Data Visualization
+  - Regression Models, PageRank Algorithm
+  - Perceptron & Neural Networks (Forward & Backward Propagation)
+  - Convolutional Neural Networks (CNN)
+  - Support Vector Machines (SVM)
+  - K-Means Clustering
+  - Supervised & Unsupervised Learning
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React.js, Redux, Typescript, Node.js, MongoDB, Express.js**
 

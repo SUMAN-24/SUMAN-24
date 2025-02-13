@@ -71,7 +71,7 @@
 
   **Role**: **Frontend Development & Product Visualization**
 
-  - Developed the **Catalog Screen**, enabling product publishing/unpublishing, product detail updates, and 2D-to-3D catalog conversions for digitalization.
+  - Developed the **Catalog Screen**, enabling **product publishing/unpublishing**, **product detail updates**, and **2D-to-3D catalog conversions** for digitalization.
   - Built the **Product Details Screen** for AR and 3D product visualization.
   - Implemented features like **product editing**, **share count**, **product attributes**, and **descriptions**, improving the digital product experience.
 

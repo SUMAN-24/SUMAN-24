@@ -9,19 +9,19 @@
 ## 👋 About Me
 
 - 🌱 I’m a **Software Engineer** | **Formerly at ThynkWeb** | **💻 Full-Stack Developer** | **MERN Stack Developer**
-- Results-driven Full Stack Web Developer with 2 years of experience specializing in React.js, Backbone.js, and modern web technologies. I excel at building scalable applications, migrating legacy systems, and implementing pixel-perfect designs.
+- Results-driven Full Stack Web Developer with **2 years of experience** specializing in **React.js**, **Backbone.js**, and modern web technologies. I excel at building scalable applications, migrating legacy systems, and implementing pixel-perfect designs.
 
   Passionate about solving complex issues, I thrive in fast-paced environments, consistently delivering high-quality software solutions while meeting tight deadlines.
 
 - I have a strong passion for learning new technologies and am currently pursuing a Minor in AI from IIT Ropar, focusing on foundational and advanced AI concepts. Key learnings include:
 
-  - Python Programming, Pandas, Data Visualization
-  - Regression Models, PageRank Algorithm
-  - Perceptron & Neural Networks (Forward & Backward Propagation)
-  - Convolutional Neural Networks (CNN)
-  - Support Vector Machines (SVM)
-  - K-Means Clustering
-  - Supervised & Unsupervised Learning
+  - **Python Programming**, **Pandas**, **Data Visualization**
+  - **Regression Models**, **PageRank Algorithm**
+  - **Perceptron & Neural Networks (Forward & Backward Propagation)**
+  - **Convolutional Neural Networks (CNN)**
+  - **Support Vector Machines (SVM)**
+  - **K-Means Clustering**
+  - **Supervised & Unsupervised Learning**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React.js, Redux, Typescript, Node.js, MongoDB, Express.js**
 

@@ -33,22 +33,22 @@
 
 ## 🚀 Projects
 
-### 1. App Studio (Enterprise DIY Platform)
+### 1. No Code Platform
 
-  **Role**: **App Studio Modernization & API Builder Development**
+  **Role**: **Platform Modernization & API Builder Development**
 
-  - Debugged and enhanced features in **App Studio**, built with **Backbone.js**, and quickly adapted to unfamiliar frameworks.
+  - Debugged and enhanced features in Platform, built with **Backbone.js**, and quickly adapted to unfamiliar frameworks.
   - Redesigned and migrated the **API Builder** from **Backbone.js to a React.js Micro-Frontend (MFE)** using **Web Components**.
   - Developed a **React.js UI** as per **Figma** specifications, ensuring seamless project integration.
   - Resolved **90% of reported bugs** in API Builder during migration, improving stability and performance.
   - Implemented key features like **stage duplication**, **action buttons**, **default rules**, and **automation enhancements**.
   - Optimized performance by refining **metadata handling**, **stage-setting logic**, and **adding a refresh button**.
   - Improved UX by implementing **copy-paste functionality** for UI elements.
-  - Documented App Studio & API Builder on **Confluence**, aiding team knowledge sharing.
+  - Documented No Code Platform & API Builder on **Confluence**, aiding team knowledge sharing.
 
   **Tech Stack**: Backbone.js, React.js, Marionette.js, Underscore.js, jQuery, Web Components (MFE), Webpack, Ant Design, Sass, Figma
 
-### 2. HRM Software (Human Resource Management System)
+### 2. HRM Software
 
   **Role**: **Frontend & API Development for Employee Management**
 
@@ -67,7 +67,7 @@
 
   **Tech Stack**: React, TypeScript, Redux-Toolkit, Flowbite, Chart.js, Axios, API integration, C#, .NET, MySQL
 
-### 3. Trezi Showcase (AR/VR Collaborative Platform for Product Manufacturers)
+### 3. AR/VR Platform for Product Manufacturers
 
   **Role**: **Frontend Development & Product Visualization**
 
@@ -77,27 +77,27 @@
 
   **Tech Stack**: React (Class Components), Vectary, API Integration, Bootstrap, Figma
 
-### 4. Intuitive Surgical (Healthcare Software Enhancements)
+### 4. Healthcare Software
 
   **Role**: **UI/UX Enhancements & System Optimization**
 
-  - Contributed to the **My Intuitive** and **Da Vinci screens**, improving system functionality, usability, and efficiency.
+  - Contributed to the **My Intuitive** and **Da Vinci screens**, optimizing system usability and efficiency for better healthcare workflows.
   - Implemented **UI/UX improvements** for a more user-friendly experience.
 
   **Tech Stack**: React, Bootstrap, Custom Client Components
 
-### 5. Flexi Twin (Real-Time Vehicle Tracking Platform)
+### 5. Real-Time Vehicle Tracking System
 
   **Role**: **Intern, Frontend Development (mostly)**
-
-  - Developed a **responsive screen for vehicle performance tracking**, displaying charts and reports, focused on **battery metrics** for fleet admins.
+  
+  - Developed a **real-time vehicle performance dashboard**, displaying critical analytics such as **battery metrics and fleet reports**, improving tracking and monitoring capabilities for fleet administrators.
   - Contributed to real-time vehicle tracking features, enhancing the system's ability to monitor and analyze fleet performance effectively.
 
   **Tech Stack**: Angular, Bootstrap, SCSS, C#, .NET, MySQL 
 
 ### Additional Contribution:
 
-  - Took on the responsibility of facilitating **technical interviews** for React.js developer positions, **contributing to the hiring process and team growth**, while **demonstrating strong leadership and technical expertise**.
+  - Actively participated in **technical hiring**, conducting interviews for **React.js developer positions**, ensuring **high-quality talent acquisition**.
 
 ## 📄 Resume
 [View My Resume](https://drive.google.com/file/d/11MHMZYR-gEQJyqQPOdEvQt9bmAqsCuWd/view?usp=sharing)

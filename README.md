@@ -97,7 +97,7 @@
   - Actively participated in **technical hiring**, conducting interviews for **React.js developer positions**, ensuring **high-quality talent acquisition**.
 
 ## 📄 Resume
-[View My Resume](https://drive.google.com/file/d/11MHMZYR-gEQJyqQPOdEvQt9bmAqsCuWd/view?usp=sharing)
+[View My Resume](https://drive.google.com/file/d/172T18tBYtIYx1_gq4CsN4n82CyPvhV6K/view?usp=sharing)
 
 ## 👨‍💻 Portfolio
 [View My Portfolio](https://SUMAN-24.github.io)

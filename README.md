@@ -1,140 +1,189 @@
-<h1 align="center">Hi <img width="40" height="40" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Suman Kumar Khan</h1>
-<h3 align="center">My journey into the world of computers and the web began in 2009 when I was first introduced to HTML. That moment sparked a passion that set me on the path to becoming a Software Developer. The experience I had in 2009 left a lasting impact, driving me to pursue this career with unwavering determination. <br /> Software Engineer | Formerly at ThynkWeb. <br/> <br /> My Tagline: <p><b><i>"My Success may not be Immediately but Definitely".😄</i></b></p> <br/></h3>
-  <br/>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suman-24&label=Profile%20views&color=0e75b6&style=flat" alt="suman-24" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Suman+Kumar+Khan;Full+Stack+Software+Engineer;WebRTC+%E2%80%A2+Next.js+%E2%80%A2+React+Native+%E2%80%A2+GCP;Music+Producer+%40+Blending+Aura+%F0%9F%8E%B5;AI+Filmmaker+%F0%9F%8E%AC" alt="Typing SVG" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img margin-left="30" src="https://github-profile-trophy.vercel.app/?username=suman-24" alt="suman-24-github-profile-trophy" /></a> </p>
+**Full Stack Software Engineer · 3+ years** building SaaS, real-time streaming and mobile products — and making music and films with AI on the side.
+
+<a href="https://sumankumarkhan.com/"><img src="https://img.shields.io/badge/Portfolio-sumankumarkhan.com-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/suman-kumar-khan/"><img src="https://img.shields.io/badge/LinkedIn-Suman_Kumar_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:contact@sumankumarkhan.com"><img src="https://img.shields.io/badge/Email-contact@sumankumarkhan.com-D14836?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+<a href="https://calendly.com/sumankumarkhan/30min"><img src="https://img.shields.io/badge/Book_a_call-30_min-006BFF?style=for-the-badge&logo=calendly&logoColor=white" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=suman-24&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://img.shields.io/badge/Open_to-Software_Engineering_roles-2EA043?style=flat" alt="open to roles" />
+
+</div>
+
+---
 
 ## 👋 About Me
 
-- 🌱 I’m a **Software Engineer** | **Formerly at ThynkWeb** | **💻 Full-Stack Developer** | **MERN Stack Developer**
-- Results-driven Full Stack Web Developer with **2 years of experience** specializing in **React.js**, **Backbone.js**, and modern web technologies. I excel at building scalable applications, migrating legacy systems, and implementing pixel-perfect designs.
+- 💻 **Full Stack Software Engineer** across web, real-time video and mobile — React.js, Next.js, Node.js, React Native, WebRTC and GCP
+- 🎥 Most recently at **Digital Avenues**, building web and mobile clients for **Prisium**, a remote multi-camera live production SaaS
+- 🏢 Before that, **Associate Software Engineer at Thynk Web** — no-code platform, HRM, AR/VR and healthcare products
+- 🧠 **Minor in Artificial Intelligence — IIT Ropar** · currently learning Generative AI with LangChain and Hugging Face
+- 🎵 I produce Hindi, Hinglish and English music as **Blending Aura** (released via DistroKid)
+- 🎬 Certified in **AI Film Making** (Videopreneur Studios, 8-week program) — making Hindi documentaries and mythology stories with AI
+- 🌱 Motto: *"My success may not be immediate, but it is definite."*
 
-  Passionate about solving complex issues, I thrive in fast-paced environments, consistently delivering high-quality software solutions while meeting tight deadlines.
+---
 
-- I have a strong passion for learning new technologies and am currently pursuing a **Minor in AI** from **IIT Ropar**, focusing on foundational and advanced AI concepts. Key learnings include:
+## 💼 Experience
 
-  - **Python Programming**, **Pandas**, **Data Visualization**
-  - **Regression Models**, **PageRank Algorithm**
-  - **Perceptron & Neural Networks (Forward & Backward Propagation)**
-  - **Convolutional Neural Networks (CNN)**
-  - **Support Vector Machines (SVM)**
-  - **K-Means Clustering**
-  - **Supervised & Unsupervised Learning**
+### 🎥 Software Engineer — Digital Avenues &nbsp;·&nbsp; *May 2025 – Jul 2026*
+**Prisium — remote multi-camera live production SaaS**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Redux, Typescript, Node.js, MongoDB, Express.js**
+- Delivered a **3-workflow platform in 10 months** — web (Next.js 15, React 19, TypeScript) and mobile (React Native / Expo)
+- Built **WebRTC** streaming with a **mediasoup SFU + Socket.IO**: 4–6 participant sessions across separate live-preview and high-res recording pipelines
+- Built the **producer studio**: live feed switching, wideshot selection, screen capture, overlays, LUT colour grading, program output
+- **4K ISO recording** with native Kotlin/Swift modules and resumable chunked uploads to GCS — **recording reliability up 70%**
+- **AI camera switching** using MediaPipe lip detection + audio active-speaker logic, with confidence scoring to stop jitter
+- **LiveShare** React Native app: guests join by deep link and broadcast from their phone (multi-lens zoom, Bluetooth audio)
+- **BFF APIs** (Next.js → Python FastAPI) for Firebase auth, Stripe billing and SendGrid — **integration complexity cut by 22%**
+- 3 FastAPI workflows on **Pub/Sub + Cloud Run**, with **Jenkins CI/CD on GCP**
 
-- 📫Reach me at **khansuman240694@gmail.com**
+### 🏢 Associate Software Engineer — Thynk Web &nbsp;·&nbsp; *May 2023 – Jan 2025*
 
-## 💼 Professional Experience
-  ### Associate Software Engineer | ThynkWeb
-  Worked on a diverse range of projects, contributing to frontend and full-stack development while enhancing user experiences and system performance.
-
-## 🚀 Projects
-
-### 1. No Code Platform
-
-  **Role**: **Platform Modernization & API Builder Development**
-
-  - Debugged and enhanced features in Platform, built with **Backbone.js**, and quickly adapted to unfamiliar frameworks.
-  - Redesigned and migrated the **API Builder** from **Backbone.js to a React.js Micro-Frontend (MFE)** using **Web Components**.
-  - Developed a **React.js UI** as per **Figma** specifications, ensuring seamless project integration.
-  - Resolved **90% of reported bugs** in API Builder during migration, improving stability and performance.
-  - Implemented key features like **stage duplication**, **action buttons**, **default rules**, and **automation enhancements**.
-  - Optimized performance by refining **metadata handling**, **stage-setting logic**, and **adding a refresh button**.
-  - Improved UX by implementing **copy-paste functionality** for UI elements.
-  - Documented No Code Platform & API Builder on **Confluence**, aiding team knowledge sharing.
-
-  **Tech Stack**: Backbone.js, React.js, Marionette.js, Underscore.js, jQuery, Web Components (MFE), Webpack, Ant Design, Sass, Figma
-
-### 2. HRM Software
-
-  **Role**: **Frontend & API Development for Employee Management**
-
-  - Built **reusable React components & custom hooks**, enhancing scalability and reducing code duplication.
-  - Developed **RESTful APIs** for seamless **import/export of employee data**, batch processing, and synchronization.
-  - Automated the **email and notification systems** for leave approvals and system alerts, integrating frontend triggers with backend services to streamline communication and provide real-time updates.
-  - Implemented a **full-stack feature** for users to view all applicable **leave policies**, including frontend UI for policy display and backend logic for fetching role-specific data, improving **HR transparency**.
-  - Implemented core HRM features like **user management**, **leave management**, **payroll processing**, and **employee profile updates** using TypeScript & Redux-Toolkit.
-  - Migrated **JavaScript components to TypeScript (TSX)**, improving type safety and reducing runtime errors.
-  - **Revamped the UI** by migrating to the latest design standards, improving user experience and accessibility.
-  - Creatively designed and built a **reusable Delete Modal from scratch**, integrating an intuitive warning message and dual-step confirmation handling to enhance user safety and prevent accidental deletions.
-  - Developed an innovative, reusable **Filter Component**, dynamically adapting to various datasets and improving usability.
-  - Documented HRM Software on **GitHub Wiki**, outlining best practices in React, coding standards, and architectural decisions for effective knowledge sharing and team collaboration.
-  - **Redefined** the **README.md**, providing clear setup instructions, project structure, and development guidelines to improve onboarding and team collaboration.
-  - **Reviewed & approved PRs**, ensuring high code quality and adherence to best practices.
-
-  **Tech Stack**: React, TypeScript, Redux-Toolkit, Flowbite, Chart.js, Axios, API integration, C#, .NET, MySQL
-
-### 3. AR/VR Platform
-
-  **Role**: **Frontend Development & Product Visualization**
-
-  - Built the **Catalog** and **Product Details** screens, enabling **product publishing**, **2D-to-3D digitalization**, and **immersive AR/3D product visualization**.
-  - Improved digital product management by **integrating essential editing and metadata functionalities** like **product editing**, **share count**, **product attributes**, and **descriptions**.
-
-  **Tech Stack**: React (Class Components), Vectary, API Integration, Bootstrap, Figma
-
-### 4. Healthcare Software
-
-  **Role**: **UI/UX Enhancements & System Optimization**
-
-  - Contributed to **UI/UX improvements** on the **My Intuitive** and **Da Vinci** screens, optimizing system usability and efficiency for better healthcare workflows.
-
-  **Tech Stack**: React, Bootstrap, Custom Client Components
-
-### 5. Real-Time Vehicle Tracking System
-
-  **Role**: **Intern, Frontend Development (mostly)**
-  
-  - Developed a **real-time vehicle performance dashboard**, displaying critical analytics such as **battery metrics and fleet reports**, improving tracking and monitoring capabilities for fleet administrators.
-
-  **Tech Stack**: Angular, Bootstrap, SCSS, C#, .NET, MySQL 
-
-### Additional Contribution:
-
-  - Actively participated in **technical hiring**, conducting interviews for **React.js developer positions**, ensuring **high-quality talent acquisition**.
-
-## 📄 Resume
-[View My Resume](https://drive.google.com/file/d/172T18tBYtIYx1_gq4CsN4n82CyPvhV6K/view?usp=sharing)
-
-## 👨‍💻 Portfolio
-[View My Portfolio](https://SUMAN-24.github.io)
-
-## 🛠️ Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
-
-### 💻 Programming Languages: 
-- **JavaScript**, **TypeScript**, **C#**, **Python**
-### 🎨 Frontend Development: 
-- **React.js**, **TypeScript**, **Redux-Toolkit**, **Angular**, **Backbone.js**, **Marionette.js**, **Underscore.js**, **jQuery**, **Web Components (MFE)**, **Webpack**, **Ant Design**, **Bootstrap**, **Flowbite**, **Tailwind CSS**, **Chart.js**, **Axios**, **API integration**, **Sass**, **SCSS**, **Vectary**
-### ⚙️ Backend Development: 
-- **Node.js**, **Express.js**, **REST APIs**, **.NET Core**
-### 🗄 Databases: 
-- **MongoDB**, **MySQL**
-### 📚 Documentation & Collaboration: 
-- **Git**, **GitHub**, **GitHub Wiki**, **JIRA**, **Confluence**, **Postman**, **Figma**, **Swagger (OpenAPI)**, **Slack**, **Microsoft Teams**
-### 🔧 Others: 
-- **Custom Client Components**
-
-## 📊 Top Languages and GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suman-24&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="suman-24-Top-Languages" /></p>
-
+<details>
+<summary><b>App Studio (No-Code Platform) — Backbone.js → React micro-frontend migration</b></summary>
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=suman-24&show_icons=true&theme=radical&cache_seconds=1800" alt="suman-24-GitHub-Stats" /></p>
+- Led the migration of the **API Builder** from Backbone.js to a **React.js micro-frontend using Web Components**
+- Resolved **90% of reported API Builder bugs** during the migration
+- Shipped 5+ product enhancements: stage duplication, action buttons, default rules, copy-paste of UI elements
+- Documented the platform on Confluence for the team
 
-## 📈 GitHub Contributions
-<p><img align="center" src="https://ghchart.rshah.org/SUMAN-24" alt="suman-24-GitHub-Contributions" /></p>
+`Backbone.js` `React.js` `Marionette.js` `Web Components` `Webpack` `Ant Design` `Sass`
+</details>
 
-## 🔥 GitHub Streak
-<p><img align="center" src="https://streak-stats.demolab.com/?user=suman-24&theme=radical&cache_seconds=1800" alt="suman-24-GitHub-Streaks" /></p>
+<details>
+<summary><b>HRM Software — user, leave and payroll modules</b></summary>
+<br/>
 
-<br />
+- Built 3 core modules (user, leave, payroll) with **React, TypeScript and Redux Toolkit**
+- REST APIs in **C# / .NET** for employee data import/export and batch sync
+- Automated leave-approval emails and notifications; migrated JS components to TypeScript
+- Reusable filter component and two-step delete modal; reviewed PRs and documented standards on GitHub Wiki
 
-## 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/suman-kumar-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman-kumar-khan" height="30" width="40" /></a>
-   <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" alt="khansuman240694@gmail.com" height="30" width="40" /></a>
+`React` `TypeScript` `Redux Toolkit` `C#` `.NET` `MySQL` `Chart.js`
+</details>
+
+<details>
+<summary><b>AR/VR Platform & Healthcare Software</b></summary>
+<br/>
+
+- Catalog and product-detail screens with **2D-to-3D digitalisation and AR/3D product viewing** (Vectary)
+- UI/UX improvements on healthcare workflow screens
+
+`React` `Vectary` `Bootstrap`
+</details>
+
+<details>
+<summary><b>Intern — Real-Time Vehicle Tracking Dashboard (Feb – Apr 2023)</b></summary>
+<br/>
+
+- Real-time fleet dashboard with battery metrics and fleet reports in **Angular**
+
+`Angular` `SCSS` `C#` `.NET` `MySQL`
+</details>
+
+➕ Conducted **12+ React.js technical interviews** for hiring.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cs,kotlin,swift,html,css" />
 </p>
+
+**Frontend & Mobile**
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,angular,tailwind,bootstrap,sass,webpack" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-443E38?style=flat&logo=react&logoColor=white" />
+</p>
+
+**Backend, Real-Time & Cloud**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,mongodb,mysql,firebase,gcp" />
+<img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white" />
+<img src="https://img.shields.io/badge/mediasoup-SFU-555555?style=flat" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white" />
+</p>
+
+**Tools**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,jenkins,postman,figma,vscode" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
+</p>
+
+**AI / ML**
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+</p>
+
+---
+
+## 🎨 Beyond Code
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎵 Blending Aura — Music
+Original **Hindi, Hinglish and English** songs — Bollywood pop, bhangra fusion, jazz-soul, ballads, trance and devotional pieces built on Indian classical sargam. Produced with AI tools and released through **DistroKid**.
+
+Highlight: **"मिट्टी से मंज़िल तक"**, a patriotic anthem for Independence Day 2026.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 AI Filmmaking
+Certified through the **8-Week AI Film Making Program** (Videopreneur Studios, 2026). I write, direct and generate **Hindi documentaries and mythology stories** — from research and scripting to character design, scene-by-scene visuals and edit.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Highlights
+
+- 🥇 **1st place** — Royal Enfield Clone Project, Masai School (2022)
+- 🎓 Minor in AI — IIT Ropar · Full Stack Web Development (MERN) — Masai School · AI Film Making — Videopreneur Studios
+- 🔄 Self-funded career switch: from tutoring Maths & Science to full-time software engineering
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SUMAN-24&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUMAN-24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+
+<img src="https://streak-stats.demolab.com/?user=SUMAN-24&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=SUMAN-24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SUMAN-24&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+📄 [Resume & case studies on my portfolio](https://sumankumarkhan.com/) &nbsp;·&nbsp; 💬 Let's build something — [book a 30-min call](https://calendly.com/sumankumarkhan/30min)
+
+</div>

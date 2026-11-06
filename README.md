@@ -28,6 +28,18 @@
 
 ---
 
+## 🚀 Featured Project
+
+<a href="https://github.com/SUMAN-24/ajaia-docs-showcase"><img src="https://raw.githubusercontent.com/SUMAN-24/ajaia-docs-showcase/main/docs/social-preview.png" width="100%" alt="Ajaia Docs — collaborative document editor" title="Ajaia Docs — open the project showcase" /></a>
+
+**Ajaia Docs** — a collaborative document editor with rich-text editing, autosave with conflict-safe saves, owner / editor / viewer sharing, and `.txt` / `.md` / `.docx` import.
+`React 19` `TipTap` `Express 5` `SQLite` `Docker`
+
+<a href="https://ajaia-docs-a7vi.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-Open_App-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Live demo" title="Open the live app" /></a>
+<a href="https://github.com/SUMAN-24/ajaia-docs-showcase"><img src="https://img.shields.io/badge/Project-Showcase-5B50E0?style=for-the-badge&logo=github&logoColor=white" alt="Project showcase" title="Read the project showcase" /></a>
+
+---
+
 ## 💼 Experience
 
 ### 🎥 Software Engineer — Digital Avenues &nbsp;·&nbsp; *May 2025 – Jul 2026*

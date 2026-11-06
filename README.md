@@ -173,11 +173,15 @@ Original **Hindi, Hinglish and English** songs — Bollywood pop, bhangra fusion
 
 Highlight: **"मिट्टी से मंज़िल तक"**, a patriotic anthem for Independence Day 2026.
 
+<a href="https://www.youtube.com/@BlendingAura"><img src="https://img.shields.io/badge/YouTube-@BlendingAura-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Blending Aura on YouTube" title="Blending Aura on YouTube" /></a>
+
 </td>
 <td width="50%" valign="top">
 
 ### 🎬 AI Filmmaking
 Certified through the **8-Week AI Film Making Program** (Videopreneur Studios, 2026). I write, direct and generate **Hindi documentaries and mythology stories** — from research and scripting to character design, scene-by-scene visuals and edit.
+
+<a href="https://www.youtube.com/@DrishyaPuran"><img src="https://img.shields.io/badge/YouTube-@DrishyaPuran-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Drishya Puran on YouTube" title="Drishya Puran on YouTube" /></a>
 
 </td>
 </tr>

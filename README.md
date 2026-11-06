@@ -171,7 +171,7 @@
 ### 🎵 Blending Aura — Music
 Original **Hindi, Hinglish and English** songs — Bollywood pop, bhangra fusion, jazz-soul, ballads, trance and devotional pieces built on Indian classical sargam. Produced with AI tools and released through **DistroKid**.
 
-Highlight: **"मिट्टी से मंज़िल तक"**, a patriotic anthem for Independence Day 2026.
+Latest release: **"Tu Jahaan Bhi Hai, Wahin Se Sun"**
 
 <a href="https://www.youtube.com/@BlendingAura"><img src="https://img.shields.io/badge/YouTube-@BlendingAura-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Blending Aura on YouTube" title="Blending Aura on YouTube" /></a>
 

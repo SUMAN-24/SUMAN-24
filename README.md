@@ -93,43 +93,71 @@
 
 ## 🛠️ Tech Stack
 
+<sub>Hover over any icon to see its name.</sub>
+
 **Languages**
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,cs,kotlin,swift,html,css" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" title="C#" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" title="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="Swift" title="Swift" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" title="CSS3" />
 </p>
 
 **Frontend & Mobile**
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,angular,tailwind,bootstrap,sass,webpack" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/Zustand-443E38?style=flat&logo=react&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux Toolkit" title="Redux Toolkit" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="Angular" title="Angular" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="Sass" title="Sass" />
+  <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="Webpack" title="Webpack" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="32" alt="React Native" title="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="32" alt="Expo" title="Expo" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" height="32" alt="Zustand" title="Zustand" />
 </p>
 
 **Backend, Real-Time & Cloud**
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,mongodb,mysql,firebase,gcp" />
-<img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white" />
-<img src="https://img.shields.io/badge/mediasoup-SFU-555555?style=flat" />
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" title="Express.js" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" title="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET" title=".NET" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" title="Firebase" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="Google Cloud Platform" title="Google Cloud Platform" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" height="32" alt="WebRTC" title="WebRTC" />
+  <img src="https://img.shields.io/badge/mediasoup_SFU-555555?style=for-the-badge" height="32" alt="mediasoup SFU" title="mediasoup SFU" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="32" alt="Socket.IO" title="Socket.IO" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" height="32" alt="Stripe" title="Stripe" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" height="32" alt="MediaPipe" title="MediaPipe" />
 </p>
 
 **Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,jenkins,postman,figma,vscode" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins" title="Jenkins" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" title="Figma" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="32" alt="Jira" title="Jira" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" height="32" alt="Confluence" title="Confluence" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="32" alt="Swagger" title="Swagger" />
 </p>
 
 **AI / ML**
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="32" alt="Pandas" title="Pandas" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="32" alt="LangChain" title="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="32" alt="Hugging Face" title="Hugging Face" />
 </p>
 
 ---

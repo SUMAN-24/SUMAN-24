@@ -171,7 +171,10 @@
 ### 🎵 Blending Aura — Music
 Original **Hindi, Hinglish and English** songs — Bollywood pop, bhangra fusion, jazz-soul, ballads, trance and devotional pieces built on Indian classical sargam. Produced with AI tools and released through **DistroKid**.
 
-Latest release: **"Tu Jahaan Bhi Hai, Wahin Se Sun"**
+Latest release: **["Tu Jahaan Bhi Hai, Wahin Se Sun"](https://youtu.be/w67-c3czbnI)**
+
+<a href="https://open.spotify.com/album/1Pt4ITQRyc7bnMbVRPwbSn"><img src="https://img.shields.io/badge/Listen_on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen to Tu Jahaan Bhi Hai, Wahin Se Sun on Spotify" title="Listen on Spotify" /></a>
+<a href="https://youtu.be/w67-c3czbnI"><img src="https://img.shields.io/badge/Watch_on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Tu Jahaan Bhi Hai, Wahin Se Sun on YouTube" title="Watch on YouTube" /></a>
 
 <a href="https://www.youtube.com/@BlendingAura"><img src="https://img.shields.io/badge/YouTube-@BlendingAura-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Blending Aura on YouTube" title="Blending Aura on YouTube" /></a>
 

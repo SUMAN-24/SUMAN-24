@@ -192,7 +192,8 @@ Certified through the **8-Week AI Film Making Program** (Videopreneur Studios, 2
 ## 🏆 Highlights
 
 - 🥇 **1st place** — Royal Enfield Clone Project, Masai School (2022)
-- 🎓 Minor in AI — IIT Ropar · Full Stack Web Development (MERN) — Masai School · AI Film Making — Videopreneur Studios
+- 🎓 Minor in AI — IIT Ropar · Full Stack Web Development (MERN) — Masai School
+- 🎬 AI Film Making Certification — Videopreneur Studios (8-week program, 2026)
 - 🔄 Self-funded career switch: from tutoring Maths & Science to full-time software engineering
 
 ---

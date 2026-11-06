@@ -28,15 +28,38 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/SUMAN-24/suman-portfolio-showcase"><img src="https://raw.githubusercontent.com/SUMAN-24/suman-portfolio-showcase/main/docs/social-preview.png" width="100%" alt="sumankumarkhan.com — portfolio" title="sumankumarkhan.com — open the project showcase" /></a>
+
+### 🔴 sumankumarkhan.com
+My portfolio, designed like a live-production control room — server-rendered on the edge, with a private studio that publishes posts to the site, LinkedIn and dev.to on a schedule.
+
+`TanStack Start` `React 19` `TypeScript` `Cloudflare Workers` `MDX`
+
+<a href="https://sumankumarkhan.com"><img src="https://img.shields.io/badge/Live_Site-Visit-FF3B30?style=flat-square&logo=googlechrome&logoColor=white" alt="Live site" title="Visit sumankumarkhan.com" /></a>
+<a href="https://github.com/SUMAN-24/suman-portfolio-showcase"><img src="https://img.shields.io/badge/Project-Showcase-24292F?style=flat-square&logo=github&logoColor=white" alt="Project showcase" title="Read the project showcase" /></a>
+
+</td>
+<td width="50%" valign="top">
 
 <a href="https://github.com/SUMAN-24/ajaia-docs-showcase"><img src="https://raw.githubusercontent.com/SUMAN-24/ajaia-docs-showcase/main/docs/social-preview.png" width="100%" alt="Ajaia Docs — collaborative document editor" title="Ajaia Docs — open the project showcase" /></a>
 
-**Ajaia Docs** — a collaborative document editor with rich-text editing, autosave with conflict-safe saves, owner / editor / viewer sharing, and `.txt` / `.md` / `.docx` import.
+### 📝 Ajaia Docs
+A collaborative document editor with rich-text editing, conflict-safe autosave, owner / editor / viewer sharing, and `.txt` / `.md` / `.docx` import.
+
 `React 19` `TipTap` `Express 5` `SQLite` `Docker`
 
-<a href="https://ajaia-docs-a7vi.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-Open_App-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Live demo" title="Open the live app" /></a>
-<a href="https://github.com/SUMAN-24/ajaia-docs-showcase"><img src="https://img.shields.io/badge/Project-Showcase-5B50E0?style=for-the-badge&logo=github&logoColor=white" alt="Project showcase" title="Read the project showcase" /></a>
+<a href="https://ajaia-docs-a7vi.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-Open_App-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Live demo" title="Open the live app" /></a>
+<a href="https://github.com/SUMAN-24/ajaia-docs-showcase"><img src="https://img.shields.io/badge/Project-Showcase-5B50E0?style=flat-square&logo=github&logoColor=white" alt="Project showcase" title="Read the project showcase" /></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
